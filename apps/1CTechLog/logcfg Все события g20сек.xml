@@ -1,0 +1,8 @@
+<config xmlns="http://v8.1c.ru/v8/tech-log">
+   <log location="E:\logs\techlog" history="24">        
+       <event>         
+         <ge property="Duration" value="20000"/>
+       </event>
+       <property name="All"/>
+   </log>
+</config>
