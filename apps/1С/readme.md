@@ -3,7 +3,7 @@
 Компьютер пользователя:
 Каталог:
 >    C:\Documents and Settings\<Имя пользователя>\Application Data\1C\1Cv8\
->    или C:\Users\<Имя пользователя>\AppData\Local\1C\1cv8
+>    или C:\Users\ <Имя пользователя> \AppData\Local\1C\1cv8
 >
 >  Файлы:
    > 1Cv8strt.pfl - параметры диалога выбора информационной базы
